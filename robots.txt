@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /
+Allow: /index.php
+Allow: /emp_registration.php
+Allow: /katalog.php
+Allow: /login.php
+Allow: /logout.php
+Allow: /materials.php
+Allow: /register.php
+
